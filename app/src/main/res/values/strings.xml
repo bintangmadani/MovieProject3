@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movie Project 3</string>
+
+    <string name="tab_movies">Movies</string>
+    <string name="tab_tv_shows">Tv Shows</string>
+    <string name="title_activity_main">Movie Project 3</string>
+    <string name="title_activity_settings">Change Language Settings</string>
+    <string name="title">Title</string>
+    <string name="tanggal_rilis">Release Date</string>
+    <string name="vote">Vote</string>
+    <string name="bahasa_asal">Original Language</string>
+    <string name="failure">Failure</string>
+</resources>
